@@ -2,6 +2,9 @@
 
 
 ## D_CAPTAINKENYA
+I'm a Kenyan Based Penetration testing and cybersecurity learner and practitioner currently exploiting both homemade and guided online labs.
+I'm very passionate about Cybersecurity, I spend most of my time learning and obsessing about the existing flaws latest security patch techniques.
+I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
 - 🔭 I’m currently working on CTFs, Python, Tryhackme, CyberTalents, HackTheBox, Hacker101
 - 🌱 I’m currently learning Penetration Testing.
@@ -16,9 +19,3 @@
      - [Facebook](https://www.facebook.com/dee.captainkenya)
      - Email Me: dcaptainkenya@gmail.com)
       
-
-<!--
-I'm Agoo Clinton a software engineer based in Kenya.Currently I am the Developer at SOS NETWORKS,Technical Lead DSC RONGO University.Flutter, is my main development tool for making both iOS and Android applications and web.I am also experienced in front-end and backend web development with Django, Laravel and React. I'm very passionate about technologies, I spend much of my spare time learning and obsessing about the latest technologies,both for mobile and web. I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
-
-
--->
