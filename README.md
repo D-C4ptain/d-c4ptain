@@ -3,8 +3,9 @@
 
 ## D_CAPTAINKENYA
 I'm a Kenyan Based Penetration testing and cybersecurity learner and practitioner currently exploiting both homemade and guided online labs.
-I'm very passionate about Cybersecurity, I spend most of my time learning and obsessing about the existing flaws latest security patch techniques.
-I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
+I'm very passionate about Cybersecurity, I spend most of my time learning and obsessing about existing systems flaws, new ways of systems exploitation and latest security techniques.
+
+Loving what i do keeps me in motion and helps grow in skills.
 
 - 🔭 I’m currently working on CTFs, Python, Tryhackme, CyberTalents, HackTheBox, Hacker101
 - 🌱 I’m currently learning Penetration Testing.
