@@ -11,7 +11,7 @@ Loving what i do keeps me in motion and helps grow in skills.
 - 🔭 I’m currently working on CTFs, Python, Tryhackme, CyberTalents, CTFLearn, HackTheBox, Hacker101
 - 🌱 I’m currently learning Penetration Testing.
 - 👯 I’m looking to collaborate on any meaningful ideas.
-- 💬 Ask me about Cyber Security.
+- 💬 Ask me about Cybersecurity.
 
 
 
