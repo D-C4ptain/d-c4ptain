@@ -9,16 +9,16 @@ Loving what i do keeps me in motion and helps grow in skills.
 
 
 - 🔭 I’m currently working on CTFs, Python, Tryhackme, CyberTalents, CTFLearn, HackTheBox, Hacker101
-- 🌱 I’m currently learning Penetration Testing.
+- 🌱 I’m always learning Penetration Testing.
 - 👯 I’m looking to collaborate on any meaningful ideas.
 - 💬 Ask me about Cybersecurity.
 
 
 
 - 📫 Reach me Through: 
-     - [Twitter](https://twitter.com/d_captainkenya)
+     - [D_captainkenya Website](https://d-captainkenya.github.io)
      - [Linkedin](https://www.linkedin.com/in/dennis-masila-a48067160/)
-     - [Website](https://d-captainkenya.github.io)
+     - [Twitter](https://twitter.com/d_captainkenya)
      - [Facebook](https://www.facebook.com/dee.captainkenya)
      - Email: dcaptainkenya@gmail.com)
       
