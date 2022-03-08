@@ -8,7 +8,7 @@ I'm very passionate about Cybersecurity, I spend most of my time learning and ob
 Loving what i do keeps me in motion and helps grow in skills.
 
 
-- 🔭 I’m currently working on CTFs, Python, Tryhackme, CyberTalents, CTFLearn, HackTheBox, Hacker101
+- 🔭 I’m currently working on CTFs, Python, [Tryhackme](https://tryhackme.com/p/Dcaptainkenya), [CyberTalents](https://cybertalents.com/members/d_captainkenya/profile), [CTFLearn](https://ctflearn.com/user/d_captainkenya), HackTheBox, Hacker101
 - 🌱 I’m always learning Penetration Testing.
 - 👯 I’m looking to collaborate on any meaningful ideas.
 - 💬 Ask me about Cybersecurity.
