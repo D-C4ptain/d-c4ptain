@@ -1,4 +1,4 @@
-### Hi there thank you for stopping by👋
+### Hi there, thank you for stopping by👋
 
 
 ## D_CAPTAINKENYA
