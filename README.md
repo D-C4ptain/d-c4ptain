@@ -27,7 +27,3 @@ Loving what i do keeps me in motion and helps grow in skills.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=d-captainkenya&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=5&theme=tokyonight)]()
-
-![](https://github.com/d-captainkenya/github-stats/blob/master/generated/overview.svg)
-
-![](https://github.com/d-captainkenya/github-stats/blob/master/generated/languages.svg)
