@@ -44,7 +44,7 @@ Loving what i do keeps me in motion and helps grow in skills.
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"><img alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="max-width: 100%;" width="35px" align="left"></a>
 
 <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=5&theme=tokyonight)]()
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=d-captainkenya&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-captainkenya&theme=tokyonight)]()
