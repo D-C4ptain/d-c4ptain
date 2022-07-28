@@ -15,6 +15,7 @@ Loving what i do keeps me in motion and helps grow in skills.
 
 - 📫 Reach me Through: 
      - [D_captainkenya Website](https://d-captainkenya.github.io)
+     - [Blog](https://d-captainkenya.medium.com/)
      - [Linkedin](https://www.linkedin.com/in/dennis-masila-a48067160/)
      - [Twitter](https://twitter.com/d_captainkenya)
      - [Facebook](https://www.facebook.com/dee.captainkenya)
