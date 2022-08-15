@@ -13,8 +13,7 @@ Loving what i do keeps me in motion and helps grow in skills.
 - 👯 I’m looking to collaborate on any meaningful ideas.
 - 💬 Ask me about Cybersecurity.
 
-- 📫 Reach me Through: 
-     - [D_captainkenya Website](https://d-captainkenya.github.io)
+- 📫 Reach me Through:
      - [Blog](https://d-captainkenya.medium.com/)
      - [Linkedin](https://www.linkedin.com/in/dennis-masila-a48067160/)
      - [Twitter](https://twitter.com/d_captainkenya)
