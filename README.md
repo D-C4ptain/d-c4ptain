@@ -31,7 +31,7 @@ Loving what i do keeps me in motion and helps grow in skills.
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667"><img alt="JavaScript" src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;" width="35px" align="left"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Morvin-Ian/Morvin-Ian/blob/main/img/django.png"><img alt="Django" src="https://github.com/Morvin-Ian/Morvin-Ian/raw/main/img/django.png" style="max-width: 100%;" width="35px" align="left"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Morvin-Ian/Morvin-Ian/blob/main/img/index.png"><img alt="Django" src="https://github.com/Morvin-Ian/Morvin-Ian/raw/main/img/django.png" style="max-width: 100%;" width="35px" align="left"></a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Morvin-Ian/Morvin-Ian/blob/main/img/python.png"><img alt="Django" src="https://github.com/Morvin-Ian/Morvin-Ian/raw/main/img/python.png" style="max-width: 100%;" width="35px" align="left"></a>
 
