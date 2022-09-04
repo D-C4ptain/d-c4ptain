@@ -13,6 +13,8 @@ Loving what i do keeps me in motion and helps grow in skills.
 - 👯 I’m looking to collaborate on any meaningful ideas.
 - 💬 Ask me about Cybersecurity.
 
+And by the way, There are many ways of killing a rat!
+
 - 📫 Reach me Through:
      - [Blog](https://d-captainkenya.medium.com/)
      - [Linkedin](https://www.linkedin.com/in/dennis-masila-a48067160/)
