@@ -9,7 +9,7 @@ Loving what i do keeps me in motion and helps grow in skills.
 
 
 - 🔭 I’m currently working on CTFs, Python, C++, [Tryhackme](https://tryhackme.com/p/Dcaptainkenya), [CyberTalents](https://cybertalents.com/members/d_captainkenya/profile), [CTFLearn](https://ctflearn.com/user/d_captainkenya), [Blue Team Labs Online(BTLO)](https://blueteamlabs.online/home/user/11b99135332c19a8e83e3c), HackTheBox
-- 🌱 I’m always learning Penetration Testing.
+- 🌱 I’m always learning.
 - 👯 I’m looking to collaborate on any meaningful ideas.
 - 💬 Ask me about Cybersecurity.
 
