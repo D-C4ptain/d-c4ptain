@@ -16,6 +16,7 @@ Loving what i do keeps me in motion and helps grow in skills.
 And by the way, There are many ways of killing a rat!
 
 - 📫 Reach me Through:
+     - [Website](https://d-captainkenya.github.io/)
      - [Blog](https://d-captainkenya.medium.com/)
      - [Linkedin](https://www.linkedin.com/in/dennis-masila-a48067160/)
      - [Twitter](https://twitter.com/d_captainkenya)
