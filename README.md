@@ -3,7 +3,7 @@
 
 ## D_CAPTAINKENYA
 
-- 🌱 I’m always learning.
+- 🌱 Always learning.
 - 💬 Ask me about Cybersecurity.
 
 And by the way, There are many ways of killing a rat!
