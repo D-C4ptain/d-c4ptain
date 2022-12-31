@@ -49,7 +49,7 @@ And by the way, There are many ways of killing a rat!
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Morvin-Ian/Morvin-Ian/blob/main/img/python.png"><img alt="Django" src="https://github.com/Morvin-Ian/Morvin-Ian/raw/main/img/python.png" style="max-width: 100%;" width="35px" align="left"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Morvin-Ian/Morvin-Ian/blob/main/img/postgre.png"><img alt="Django" src="https://github.com/Morvin-Ian/Morvin-Ian/raw/main/img/postgre.png" style="max-width: 100%;" width="150px" height="150px" align="left"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Morvin-Ian/Morvin-Ian/blob/main/img/postgre.png"><img alt="Django" src="https://github.com/Morvin-Ian/Morvin-Ian/raw/main/img/postgre.png" style="max-width: 100%;" width="150px" align="left"></a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"><img alt="MySQL" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;" width="35px" align="left"></a>
 
