@@ -49,6 +49,10 @@ And by the way, There are many ways of killing a rat!
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Morvin-Ian/Morvin-Ian/blob/main/img/python.png"><img alt="Python" src="https://github.com/Morvin-Ian/Morvin-Ian/raw/main/img/python.png" style="max-width: 100%;" width="35px" align="left"></a>
 
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
 <a><img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /><a/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
