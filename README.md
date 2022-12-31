@@ -42,6 +42,5 @@ And by the way, There are many ways of killing a rat!
 <br><br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=d-captainkenya&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=5&theme=tokyonight)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&layout=compact&theme=merko&langs_count=10)](https://github.com/d-captainkenya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/d-captainkenya/github-readme-stats)
 [![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-captainkenya&theme=tokyonight)]()
