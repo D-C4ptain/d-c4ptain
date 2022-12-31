@@ -20,7 +20,8 @@ I spend most of my time learning and obsessing about new and existing security i
 
 -------------------------------------------------------------
 
-- 🌱 Always learning.
+- 🔭 I’m currently working on Client projects.
+- 🌱 I'm currently learning Privilege escalation and malware.
 - 💬 Ask me about Cybersecurity.
 
 And by the way, There are many ways of killing a rat!
@@ -58,6 +59,17 @@ And by the way, There are many ways of killing a rat!
 
 <br><br>
 
+### :octocat: My stats
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=d-captainkenya&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=8&layout=compact&theme=tokyonight"/></td>
+  </tr>   
+   <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=d-captainkenya&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>  
+  </tr>
+</table>
+<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=d-captainkenya&count_private=true&theme=tokyonight&show_icons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/d-captainkenya/github-readme-stats)
 [![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-captainkenya&theme=tokyonight)]()
+-->
