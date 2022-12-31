@@ -6,7 +6,19 @@
 </p>
 
 
-## D_CAPTAINKENYA
+<h1 align="center"> D_CAPTAINKENYA </h1>
+<p align="center">
+</p>
+
+
+-------------------------------------------------------------
+
+I'm Dennis Masila a software engineer and cyber security enthusiast based in Kenya. Python, is my main development tool for both security 
+and web applications.I am also experienced in front-end and backend web development with Django.
+I'm very passionate about cyber security, I spend much of my spare time learning and obsessing about the latest hacks, for web, cryptography, pwn. 
+I spend most of my time learning and obsessing about new and existing security issues.
+
+-------------------------------------------------------------
 
 - 🌱 Always learning.
 - 💬 Ask me about Cybersecurity.
