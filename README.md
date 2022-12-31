@@ -10,9 +10,6 @@
 <p align="center">
 </p>
 
-
--------------------------------------------------------------
-
 I'm Dennis Masila a software engineer and cyber security enthusiast based in Kenya. Python, is my main development tool for both security 
 and web applications.I am also experienced in front-end and backend web development with Django.
 I'm very passionate about cyber security, I spend much of my spare time learning and obsessing about the latest hacks, for web, cryptography, pwn. 
@@ -57,7 +54,6 @@ And by the way, There are many ways of killing a rat!
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-<br><br>
 
 ### :octocat: My stats
   <table>
