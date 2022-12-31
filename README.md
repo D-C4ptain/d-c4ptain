@@ -1,5 +1,9 @@
-### Hi there, thank you for stopping by👋    Visitor count <img src="https://profile-counter.glitch.me/d-captainkenya/count.svg" />
+### Hi there, thank you for stopping by 👋
 
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/d-captainkenya/count.svg" />
+</p>
 
 
 ## D_CAPTAINKENYA
