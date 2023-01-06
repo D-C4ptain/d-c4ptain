@@ -10,12 +10,37 @@
 <p align="center">
 </p>
 
-I'm Dennis Masila a software engineer and cyber security enthusiast based in Kenya. Python, is my main development tool for both security 
+I'm a software engineer and cyber security enthusiast based in Kenya. Python, is my main development tool for both security 
 and web applications.I am also experienced in front-end and backend web development with Django.
 I'm very passionate about cyber security, I spend much of my spare time learning and obsessing about the latest hacks, for web, cryptography, pwn. 
 I spend most of my time learning and obsessing about new and existing security issues.
 
 -------------------------------------------------------------
+
+<div align="center">
+<h3> 📫 🤝 Connect and Reach out to me: 👇</h3>
+  
+  <a href="https://twitter.com/d_captainkenya">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/dennis-masila-a48067160/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://d-captainkenya.medium.com">
+   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="http://d-captainkenya.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
+  </a>
+</div>
+
+### # Skills: 
+- Cyber Security:
+  - Web App Penetration Testing.
+  - Network Penetration Testing.
+  - OWASP Top 10.
+  - Tools: Burpsuite, Nmap...
+
 
 - 🔭 I’m currently working on Client projects.
 - 🌱 I'm currently learning Privilege escalation and malware.
@@ -23,13 +48,6 @@ I spend most of my time learning and obsessing about new and existing security i
 
 And by the way, There are many ways of killing a rat!
 
-- 📫 Reach me Through:
-     - [Website](https://d-captainkenya.github.io/)
-     - [Blog](https://d-captainkenya.medium.com/)
-     - [Linkedin](https://www.linkedin.com/in/dennis-masila-a48067160/)
-     - [Twitter](https://twitter.com/d_captainkenya)
-     - [Facebook](https://www.facebook.com/dee.captainkenya)
-     - Email: dcaptainkenya@gmail.com
       
 ### Top Languages and Tools:
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"><img alt="Visual Studio Code" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;" width="35px" align="left"></a>
@@ -56,11 +74,8 @@ And by the way, There are many ways of killing a rat!
 
 
 ### :octocat: My stats
-  <table>
-  <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=d-captainkenya&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=10&layout=compact&theme=tokyonight"/></td>
-  </tr>   
-   <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=d-captainkenya&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>  
-  </tr>
-</table>
+  
+  <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=d-captainkenya&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/>
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=10&layout=compact&theme=tokyonight"/>
+  <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=d-captainkenya&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  
