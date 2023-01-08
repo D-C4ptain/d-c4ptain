@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center"> D_CAPTAINKENYA </h1>
+<h1 align="center"> <a href="http://d-captainkenya.github.io">D_CAPTAINKENYA</a> </h1>
 <p align="center">
 </p>
 
