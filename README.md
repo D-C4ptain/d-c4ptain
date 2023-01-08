@@ -78,6 +78,6 @@ And by the way, There are many ways of killing a rat!
   <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=d-captainkenya&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/>
   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=10&layout=compact&theme=tokyonight"/>
   <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=d-captainkenya&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-  <br>
-  <img width="380px" height="100px" src="https://tryhackme-badges.s3.amazonaws.com/Dcaptainkenya.png" alt="TryHackMe">
+  <br>width="380px" height="100px"
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Dcaptainkenya.png" alt="TryHackMe">
   
