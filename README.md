@@ -1,10 +1,5 @@
 ### Hi there, thank you for stopping by 👋
 
-<p align="left"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/d-captainkenya/count.svg" />
-</p>
-
 
 <h1 align="center"> <a href="http://d-captainkenya.github.io">D_CAPTAINKENYA</a> </h1>
 <p align="center">
