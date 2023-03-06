@@ -9,7 +9,7 @@
 <p align="center">
 </p>
 
-I'm a software engineer and cyber security enthusiast based in Kenya. Python, is my main development tool for both security 
+I'm a software engineer and cyber security enthusiast. Python, is my main development tool for both security 
 and web applications.I am also experienced in front-end and backend web development with Django.
 I'm very passionate about cyber security, I spend much of my spare time learning and obsessing about the latest hacks, for web, cryptography, pwn. 
 I spend most of my time learning and obsessing about new and existing security issues.
@@ -75,7 +75,7 @@ And by the way, There are many ways of killing a rat!
 ### :octocat: My stats
   
   <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=d-captainkenya&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/>
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=10&layout=compact&theme=tokyonight"/>
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
   <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=d-captainkenya&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   <br>
   <img width="380px" height="100px" src="https://tryhackme-badges.s3.amazonaws.com/Dcaptainkenya.png" alt="TryHackMe">
