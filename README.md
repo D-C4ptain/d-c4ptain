@@ -25,7 +25,7 @@ I spend most of my time learning and obsessing about new and existing security i
   <a href="https://www.linkedin.com/in/dennis-masila-a48067160/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://d-captainkenya.medium.com">
+  <a href="https://d-captain.medium.com">
    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
   <a href="http://d-captainkenya.github.io">
