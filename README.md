@@ -1,15 +1,11 @@
 ### Hi there, thank you for stopping by 👋
 
-<p align="left"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/d-captainkenya/count.svg" />
-</p>
 
-<h1 align="center"> <a href="http://d-captainkenya.github.io">D_CAPTAIN</a> </h1>
+<h1 align="center"> <a href="http://dennismasila.github.io">D_CAPTAIN</a> </h1>
 <p align="center">
 </p>
 
-I'm a software engineer and cyber security enthusiast. Python, is my main development tool for both security 
+I'm a software developer and cyber security enthusiast. Python, is my main development tool for both security 
 and web applications.I am also experienced in front-end and backend web development with Django.
 I'm very passionate about cyber security, I spend much of my spare time learning and obsessing about the latest hacks, for web, cryptography, pwn. 
 I spend most of my time learning and obsessing about new and existing security issues.
@@ -28,7 +24,7 @@ I spend most of my time learning and obsessing about new and existing security i
   <a href="https://d-captain.medium.com">
    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="http://d-captainkenya.github.io">
+  <a href="http://dennismasila.github.io">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
   </a>
 </div>
@@ -74,9 +70,9 @@ And by the way, There are many ways of killing a rat!
 
 ### :octocat: My stats
   
-  <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=d-captainkenya&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/>
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-captainkenya&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
-  <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=d-captainkenya&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=dennismasila&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/>
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennismasila&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
+  <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dennismasila&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   <br>
   <img width="380px" height="100px" src="https://tryhackme-badges.s3.amazonaws.com/Dcaptainkenya.png" alt="TryHackMe">
   
