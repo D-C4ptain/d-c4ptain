@@ -1,7 +1,7 @@
 ### Hi there, thank you for stopping by 👋
 
 
-<h1 align="center"> <a href="http://dennismasila.github.io">D_C4PTAIN</a> </h1>
+<h1 align="center"> <a href="http://d-c4ptain.github.io">D_C4PTAIN</a> </h1>
 <p align="center">
 </p>
 
@@ -24,7 +24,7 @@ I spend most of my time learning and obsessing about new and existing security i
   <a href="https://d-captain.medium.com">
    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="http://dennismasila.github.io">
+  <a href="http://d-c4ptain.github.io">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
   </a>
 </div>
