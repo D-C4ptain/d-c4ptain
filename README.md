@@ -6,7 +6,7 @@
 </p>
 
 I'm a software developer and cyber security enthusiast. Python, is my main development tool for both security 
-and web applications.I am also experienced in front-end and backend web development with Django.
+and web applications.
 I'm very passionate about cyber security, I spend much of my spare time learning and obsessing about the latest hacks, for web, cryptography, pwn. 
 I spend most of my time learning and obsessing about new and existing security issues.
 
@@ -15,7 +15,7 @@ I spend most of my time learning and obsessing about new and existing security i
 <div align="center">
 <h3> 📫 🤝 Connect and Reach out to me: 👇</h3>
   
-  <a href="https://twitter.com/d_captainkenya">
+  <a href="https://twitter.com/d_c4ptain">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/dennis-masila-a48067160/">
