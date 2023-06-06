@@ -1,7 +1,7 @@
 ### Hi there, thank you for stopping by 👋
 
 
-<h1 align="center"> <a href="http://dennismasila.github.io">D_CAPTAIN</a> </h1>
+<h1 align="center"> <a href="http://dennismasila.github.io">D_C4PTAIN</a> </h1>
 <p align="center">
 </p>
 
