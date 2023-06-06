@@ -70,9 +70,9 @@ And by the way, There are many ways of killing a rat!
 
 ### :octocat: My stats
   
-  <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=dennismasila&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/>
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennismasila&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
-  <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dennismasila&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=d-c4ptain&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/>
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-c4ptain&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
+  <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=d-c4ptain&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   <br>
   <img width="380px" height="100px" src="https://tryhackme-badges.s3.amazonaws.com/Dcaptainkenya.png" alt="TryHackMe">
   
