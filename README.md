@@ -33,8 +33,8 @@ I spend most of my time learning and obsessing about new and existing security i
 - Cyber Security:
   - Web App Penetration Testing.
   - Network Penetration Testing.
-  - OWASP Top 10.
-  - Tools: Burpsuite, Nmap...
+  - CTF Player.
+  - Tools: Burpsuite, Nmap, Nessus, OpenVAS, wireshark, gobuster, aircrack-ng, metasploit, impacket...
 
 
 - 🔭 I’m currently working on Client projects.
